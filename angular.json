@@ -25,7 +25,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/app/components/big-card/big-card/big-card.component.css",
+              ""
             ],
             "scripts": [],
             "server": "src/main.server.ts",
