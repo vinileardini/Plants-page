@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": ["src/assets/js/polyfills.js"],
+            "scripts": [],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
