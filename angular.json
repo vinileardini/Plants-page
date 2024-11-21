@@ -13,7 +13,6 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "baseHref": "Plants-page",
             "outputPath": "dist/plants",
             "index": "src/index.html",
             "browser": "src/main.ts",
